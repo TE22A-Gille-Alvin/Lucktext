@@ -5,9 +5,9 @@ Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("What is ur name?");
 string name = Console.ReadLine();
 Console.WriteLine("what is yums?");
-string name = Console.ReadLine();
+string lame = Console.ReadLine();
 Console.WriteLine("how are u?");
-string name = Console.ReadLine();
+string game = Console.ReadLine();
 
-Console.WriteLine($"hey {name} cool name, mm {name} is indeed very yummers. u feel {name}? Thats unfortunate..");
+Console.WriteLine($"hey {name} cool name, mm {lame} is indeed very yummers. u feel {game}? Thats unfortunate..");
 Console.ReadLine();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj": {}
+    "C:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj": {
+    "C:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj",
+        "projectUniqueName": "C:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj",
         "projectName": "Lucktext",
-        "projectPath": "c:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj",
+        "projectPath": "C:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\Lucktext.csproj",
         "packagesPath": "C:\\Users\\alvin.gille\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\obj\\",
+        "outputPath": "C:\\Users\\alvin.gille\\Documents\\Prog\\Lucktext\\Lucktext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
