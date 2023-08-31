@@ -1,0 +1,14 @@
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.AssemblyInfo.cs
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.exe
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.deps.json
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.runtimeconfig.json
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.dll
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\bin\Debug\net7.0\Lucktext.pdb
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.dll
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\refint\Lucktext.dll
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.pdb
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\Lucktext.genruntimeconfig.cache
+C:\Users\alvin.gille\Documents\Prog\Lucktext\Lucktext\obj\Debug\net7.0\ref\Lucktext.dll
